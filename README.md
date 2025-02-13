@@ -1,6 +1,7 @@
 # 🚀 Nithin's Portfolio  
 
 ### A dynamic and responsive personal portfolio built with HTML5, CSS3, JavaScript 
+https://banothunithin.github.io/My-Portfolio-NithinX/
 
 ## 🌟 **About the Project**  
 This is my **personal portfolio website**, showcasing my skills, projects, and experience in **full-stack development, data analysis, and software engineering**. Built using the **HTML5, CSS3, JavaScript**, it features a modern UI, interactive animations, and a seamless user experience.  
