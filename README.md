@@ -9,7 +9,7 @@ This is my **personal portfolio website**, showcasing my skills, projects, and e
 - **Frontend:** React, HTML, CSS, JavaScript, Bootstrap  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
-- **Other Tools:** Power BI, SQL, GitHub  
+- **Data Analysis:** Excel, Power BI, SQL, Python with Data
 
 ## 🎯 **Features**  
 ✅ **About Me Section** – My skills, experience, and education  
